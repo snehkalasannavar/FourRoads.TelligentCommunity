@@ -80,7 +80,7 @@ $core_v2_widget.ApplyTokens($core_v2_widget.GetStringValue('fragmentHeader', '${
   <resource name="ValEmail_Name">4 Roads - Email Validation</resource>
   <resource name="ValEmail_Header">Email Validation</resource>
   <resource name="ValEmail_Description">Adds support for Email Validation.</resource>
-      <resource name="SubText">We haven't seen this email before so we need to validate that you are the owner.  You should have received a code that will allow then allow you access to this community</resource>
+      <resource name="SubText">We haven't seen this email before so we need to validate that you are the owner.  You should have received a code that will then allow you to access this community</resource>
   <resource name="Options">Options</resource>
   <resource name="SaveButton">Submit</resource>
   <resource name="Submit">Submit Code</resource>
